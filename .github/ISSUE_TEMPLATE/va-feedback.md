@@ -1,6 +1,6 @@
 ---
-name: Response Quality Feedback
-about: Fields we need to assess quality of the Virtual Assistant
+name: VA Feedback
+about: Feedback to assess quality of the Virtual Assistant
 title: "[RESPONSE QUALITY FEEDBACK]"
 labels: ''
 assignees: korenaren
