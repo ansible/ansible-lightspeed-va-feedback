@@ -1,7 +1,7 @@
 ---
 name: VA Feedback
 about: Feedback to assess quality of the Virtual Assistant
-title: "[RESPONSE QUALITY FEEDBACK]"
+title: VA response can be improved
 labels: ''
 assignees: korenaren
 
