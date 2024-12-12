@@ -19,6 +19,13 @@ body:
     validations:
       required: false
   - type: textarea
+    id: ref_docs
+    attributes:
+      label: Referenced documents
+      description: Referenced documents (for internal use)
+    validations:
+      required: false
+  - type: textarea
     id: prompt
     attributes:
       label: Your message
