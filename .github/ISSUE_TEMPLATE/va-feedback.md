@@ -14,7 +14,9 @@ Please copy/paste your conversation ID here. You can find this in the text box t
 Where is 1 is 'nothing of value in the response' to where 10 is 'the response is perfect'
 
 **What did you expect? What was missing from response? What should the response have said?**
-A clear and concise explanation for why you think the response was not good. If possible, share exactly what you think the response should have been. 
+Please provide: (1) Your original query/question, (2) The actual response you received, and (3) What you expected the response to be. Explain clearly why the response was not good and what it should have been instead.
+
+**IMPORTANT:** Do not include sensitive information such as passwords, hostnames, secret keys or other confidential data in your feedback. 
 
 **Screenshots**
 If you think it will help, feel free to add screenshots.
