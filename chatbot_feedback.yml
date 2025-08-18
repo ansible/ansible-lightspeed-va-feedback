@@ -25,20 +25,6 @@ body:
       description: Referenced documents (for internal use)
     validations:
       required: false
-  - type: textarea
-    id: prompt
-    attributes:
-      label: Your message
-      placeholder: Your message
-    validations:
-      required: true
-  - type: textarea
-    id: response
-    attributes:
-      label: Response to your message
-      placeholder: Response to your message
-    validations:
-      required: true
   - type: dropdown
     id: rate
     attributes:
