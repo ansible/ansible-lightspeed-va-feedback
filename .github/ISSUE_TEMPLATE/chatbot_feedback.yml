@@ -47,9 +47,12 @@ body:
     attributes:
       label: What did you expect? What was missing from response? What should the response have said?
       description: >-
-        A clear and concise explanation for why you think the response was not good. If possible, 
-        share exactly what you think the response should have been. 
-        If you think it will help, feel free to add screenshots.
+        Please provide: (1) Your original query/question, (2) The actual response you received, 
+        and (3) What you expected the response to be. Explain clearly why the response was not good 
+        and what it should have been instead. If helpful, add screenshots.
+        
+        IMPORTANT: Do not include sensitive information such as passwords, hostnames, secret keys 
+        or other confidential data in your feedback.
       placeholder: Description
     validations:
       required: true
